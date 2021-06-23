@@ -7,7 +7,7 @@ module.exports = {
                  href: '/logo.jpeg'
              }], // 增加一个自定义的 favicon(网页标签的图标)
          ],
-         base: '/joeBlog/', // 这是部署到github相关的配置
+         base: '/joeblog/', // 这是部署到github相关的配置
          markdown: {
              lineNumbers: false // 代码块显示行号
          },
